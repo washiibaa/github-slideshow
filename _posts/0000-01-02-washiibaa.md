@@ -1,6 +1,7 @@
----
-layout: slide
-title: "Welcome to our second slide!"
----
-Your text
-Use the left arrow to go back!
++++
+layout: slide baa
+title: "Welcome to my second slide!"
++++
+this is the editied version
+nico !
+dazai
